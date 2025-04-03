@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **nishthamonga11@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uapTF5zC9gVIupDOWbZGx-ht_Co5G0b2/view](https://drive.google.com/file/d/1uapTF5zC9gVIupDOWbZGx-ht_Co5G0b2/view)
+
 - ⚡ Fun fact **yoooo....**
 
 <h3 align="left">Connect with me:</h3>
