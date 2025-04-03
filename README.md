@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishtha</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishthamonga6n&label=Profile%20views&color=0e75b6&style=flat" alt="nishthamonga6n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishthamonga6&label=Profile%20views&color=0e75b6&style=flat" alt="nishthamonga6" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishthamonga6n" alt="nishthamonga6n" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishthamonga6" alt="nishthamonga6" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -34,8 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishthamonga6n&show_icons=true&locale=en&layout=compact" alt="nishthamonga6n" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishthamonga6&show_icons=true&locale=en&layout=compact" alt="nishthamonga6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishthamonga6n&show_icons=true&locale=en" alt="nishthamonga6n" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishthamonga6&show_icons=true&locale=en" alt="nishthamonga6" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishthamonga6n&" alt="nishthamonga6n" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishthamonga6&" alt="nishthamonga6" /></p>
